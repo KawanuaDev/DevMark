@@ -1,0 +1,21 @@
+DEF="\e[0m"
+ULINE="\e[4m"
+CDEF="\e[39m"
+LCYAN="\e[96m"
+LGREN="\e[92m"
+LRED="\e[91m"
+INV="\e[7m"
+BOLD="\e[1m"
+
+DATEFMT=$(date "+%d-%m-%Y %I:%M:%S")
+
+f1baris() {
+  printf "\n"
+}
+f2baris() {
+  printf "\n\n"
+}
+fselesai() {
+    echo "$DATEFMT: ✔  Deploy sukses." | tee -a deploy.log > /dev/null
+    echo -e "✔  SELESAI. ($DATEFMT)"
+}

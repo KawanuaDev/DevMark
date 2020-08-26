@@ -1,0 +1,9 @@
+<div class="nav-panel">
+    <nav>
+        <ul>
+            <li class="tag"><img src="imgs/logo-60x60.png" alt="Logo"></li>
+            <li class="tag"><a href="#"><span aria-hidden="true">All</span></a></li>
+{{ range .Site.Params.nav }}            {{ partial "nav_item.html" . }}{{- end }}
+        </ul>
+    </nav>
+</div>

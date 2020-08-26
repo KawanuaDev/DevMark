@@ -1,0 +1,42 @@
+baseURL = "https://dev.kawanua.id/"
+languageCode = "en-us"
+title = "Kawanua DevTools"
+theme = "slate"
+
+publishDir = "public"
+
+[ params ]
+Favicon = "favicon.ico"
+BackgroundStyle = "#657383"
+OpenLinksInNewWindow = true
+
+[[ params.nav ]]
+name = "favorites"
+tag = "favorite"
+icon = "star"
+
+[[ params.nav ]]
+name = "UI"
+tag = "ui"
+icon = "search"
+
+[[ params.nav ]]
+name = "Libraries"
+tag = "libraries"
+icon = "shopping-basket"
+
+[[ params.nav ]]
+name = "SysAdmin"
+tag = "sysadmin"
+icon = "server"
+
+[[ params.nav ]]
+name = "Productivity"
+tag = "productivity"
+icon = "wrench"
+
+[[ params.nav ]]
+name = "Downloader"
+tag = "downloader"
+icon = "server"
+

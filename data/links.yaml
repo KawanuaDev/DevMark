@@ -1,0 +1,77 @@
+tiles:
+-
+  name: "Bootstrap 4 Cheat Sheet"
+  desc: "The ultimate list of Bootstrap classes"
+  url: "https://hackerthemes.com/bootstrap-cheatsheet/"
+  img: "https://cdn.cnet.work/dialerto/logos/google.svg"
+  tags: ["ui", "libraries"]
+-
+  name: "📙 Emojipedia"
+  desc: "😃 Home of Emoji Meanings 💁👌🎍😍"
+  url: "https://emojipedia.org/"
+  img: "https://cdn.cnet.work/dialerto/logos/duckduckgo.png"
+  tags: ["ui", "libraries"]
+-
+  name: "Full Emoji List"
+  desc: "Full Emoji List, v12.0"
+  url: "https://unicode.org/emoji/charts/full-emoji-list.html"
+  img: "https://cdn.cnet.work/dialerto/logos/bing.svg"
+  txt_color: "#ffffff"
+  bg_color: "#ffb900"
+  tags: ["ui", "libraries"]
+-
+  name: "cron-job.org"
+  desc: "Free web based cron-job"
+  url: "https://cron-job.org"
+  img: "https://cdn.cnet.work/dialerto/logos/amazon.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["favorite", "sysadmin", "productivity"]
+-
+  name: "Simple.Savr"
+  desc: "Sync Text and Files Across your WiFi network!"
+  url: "https://www.ssavr.com/"
+  img: "https://cdn.cnet.work/dialerto/logos/reddit.svg"
+  bg_color: "#5f99cf"
+  txt_color: "#ffffff"
+  tags: ["productivity"]
+-
+  name: "SCRIBENS"
+  desc: "Free, Powerful English Grammar Checker"
+  url: "https://www.scribens.com/"
+  img: "https://cdn.cnet.work/dialerto/logos/spotify.svg"
+  bg_color: "#191414"
+  txt_color: "#1db954"
+  tags: ["productivity"]
+-
+  name: "Twitter Video Downloader"
+  desc: "Download Twitter Videos in MP4 & MP3"
+  url: "https://www.getmytweet.com/"
+  img: "https://cdn.cnet.work/dialerto/logos/google-music.png"
+  bg_color: "#ffffff"
+  txt_color: "#ff5722"
+  tags: ["downloader", "productivity"]
+-
+  name: "ColorSpace"
+  desc: "Color Palettes Generator and Color Gradient Tool"
+  url: "https://mycolor.space/"
+  img: "https://cdn.cnet.work/dialerto/logos/pandora.svg"
+  bg_color: "#005483"
+  txt_color: "#ffffff"
+  tags: ["favorite", "ui"]
+-
+  name: "n1trux/awesome-sysadmin"
+  desc: "A curated list of amazingly awesome open source sysadmin resources."
+  url: "https://github.com/n1trux/awesome-sysadmin"
+  img: "https://cdn.cnet.work/dialerto/logos/soundcloud.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ff3300"
+  tags: ["sysadmin"]
+-
+  name: "awesome-selfhosted"
+  desc: "A list of Free Software network services and web applications which can be hosted locally."
+  url: "https://github.com/awesome-selfhosted/awesome-selfhosted"
+  img: "https://cdn.cnet.work/dialerto/logos/wikipedia.svg"
+  bg_color: "#ffffff"
+  txt_color: "#000000"
+  tags: ["sysadmin"]
